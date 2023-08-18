@@ -1,0 +1,9 @@
+Used
+Name                 : tr3          tr1          tr2          
+Code                 : 3            4             5            
+Buying costs         : 44           55            489            
+Selling prices       : 55           66            500            
+Quantities           : 5            5             5            
+Discounts            : 0            1.98          0         
+Net selling prices   : 55           64.02         500         
+Profits              : 55           45.1          55          
